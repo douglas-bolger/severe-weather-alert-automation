@@ -1,2 +1,2 @@
 # severe-weather-alert-automation
-Automation workflow that monitors weather thresholds and sends email alerts. 
+Automation workflow demonstrating threshold-based monitoring logic and automated alert delivery using conditional evaluation and external data integration. 
