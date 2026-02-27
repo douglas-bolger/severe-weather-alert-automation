@@ -61,3 +61,17 @@ Designed an automated monitoring workflow that:
 ## Notes
 
 This repository documents workflow design and automation logic. No API keys or proprietary data are included.
+
+## Screenshots
+
+### Workflow Architecture
+![Workflow Diagram](workflow-diagram.png)
+
+### Threshold & Path Logic
+![Filter Logic](filter-logic.png)
+
+### Weather API Response Mapping
+![API Response](api-response.png)
+
+### Generated Operational Email
+![Email Alert](email-alert-example.png)
